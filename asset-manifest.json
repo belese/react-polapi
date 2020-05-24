@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.e23523fe.chunk.css",
-    "main.js": "/static/js/main.32760bdd.chunk.js",
-    "main.js.map": "/static/js/main.32760bdd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.60d69362.js",
-    "runtime-main.js.map": "/static/js/runtime-main.60d69362.js.map",
-    "static/css/2.97a9311d.chunk.css": "/static/css/2.97a9311d.chunk.css",
-    "static/js/2.d8604aaa.chunk.js": "/static/js/2.d8604aaa.chunk.js",
-    "static/js/2.d8604aaa.chunk.js.map": "/static/js/2.d8604aaa.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a775dff355d3743645e82fb7b47ba81b.js": "/precache-manifest.a775dff355d3743645e82fb7b47ba81b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.97a9311d.chunk.css.map": "/static/css/2.97a9311d.chunk.css.map",
-    "static/css/main.e23523fe.chunk.css.map": "/static/css/main.e23523fe.chunk.css.map",
-    "static/js/2.d8604aaa.chunk.js.LICENSE.txt": "/static/js/2.d8604aaa.chunk.js.LICENSE.txt"
+    "main.css": "./react-polapi/static/css/main.e23523fe.chunk.css",
+    "main.js": "./react-polapi/static/js/main.32760bdd.chunk.js",
+    "main.js.map": "./react-polapi/static/js/main.32760bdd.chunk.js.map",
+    "runtime-main.js": "./react-polapi/static/js/runtime-main.40194dca.js",
+    "runtime-main.js.map": "./react-polapi/static/js/runtime-main.40194dca.js.map",
+    "static/css/2.97a9311d.chunk.css": "./react-polapi/static/css/2.97a9311d.chunk.css",
+    "static/js/2.9fd35825.chunk.js": "./react-polapi/static/js/2.9fd35825.chunk.js",
+    "static/js/2.9fd35825.chunk.js.map": "./react-polapi/static/js/2.9fd35825.chunk.js.map",
+    "index.html": "./react-polapi/index.html",
+    "precache-manifest.b171dafc750598b17b1874b46a5abc23.js": "./react-polapi/precache-manifest.b171dafc750598b17b1874b46a5abc23.js",
+    "service-worker.js": "./react-polapi/service-worker.js",
+    "static/css/2.97a9311d.chunk.css.map": "./react-polapi/static/css/2.97a9311d.chunk.css.map",
+    "static/css/main.e23523fe.chunk.css.map": "./react-polapi/static/css/main.e23523fe.chunk.css.map",
+    "static/js/2.9fd35825.chunk.js.LICENSE.txt": "./react-polapi/static/js/2.9fd35825.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.60d69362.js",
+    "static/js/runtime-main.40194dca.js",
     "static/css/2.97a9311d.chunk.css",
-    "static/js/2.d8604aaa.chunk.js",
+    "static/js/2.9fd35825.chunk.js",
     "static/css/main.e23523fe.chunk.css",
     "static/js/main.32760bdd.chunk.js"
   ]
