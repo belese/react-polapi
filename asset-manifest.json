@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-polapi/static/css/main.e23523fe.chunk.css",
-    "main.js": "/react-polapi/static/js/main.83b0591e.chunk.js",
-    "main.js.map": "/react-polapi/static/js/main.83b0591e.chunk.js.map",
+    "main.js": "/react-polapi/static/js/main.7856ac67.chunk.js",
+    "main.js.map": "/react-polapi/static/js/main.7856ac67.chunk.js.map",
     "runtime-main.js": "/react-polapi/static/js/runtime-main.643169ac.js",
     "runtime-main.js.map": "/react-polapi/static/js/runtime-main.643169ac.js.map",
     "static/css/2.97a9311d.chunk.css": "/react-polapi/static/css/2.97a9311d.chunk.css",
     "static/js/2.e9e18933.chunk.js": "/react-polapi/static/js/2.e9e18933.chunk.js",
     "static/js/2.e9e18933.chunk.js.map": "/react-polapi/static/js/2.e9e18933.chunk.js.map",
     "index.html": "/react-polapi/index.html",
-    "precache-manifest.2d1babc1adfca10840ed4e7693e55ba5.js": "/react-polapi/precache-manifest.2d1babc1adfca10840ed4e7693e55ba5.js",
+    "precache-manifest.8be2b919a98fcf1c6f609a62398e5314.js": "/react-polapi/precache-manifest.8be2b919a98fcf1c6f609a62398e5314.js",
     "service-worker.js": "/react-polapi/service-worker.js",
     "static/css/2.97a9311d.chunk.css.map": "/react-polapi/static/css/2.97a9311d.chunk.css.map",
     "static/css/main.e23523fe.chunk.css.map": "/react-polapi/static/css/main.e23523fe.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.97a9311d.chunk.css",
     "static/js/2.e9e18933.chunk.js",
     "static/css/main.e23523fe.chunk.css",
-    "static/js/main.83b0591e.chunk.js"
+    "static/js/main.7856ac67.chunk.js"
   ]
 }
