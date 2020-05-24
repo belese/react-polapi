@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9cccbec0dfb1dc93390396da454c3fb1",
+    "revision": "1373ae43fb23fe76cc46b63f454b39c7",
     "url": "/react-polapi/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-polapi/static/css/2.97a9311d.chunk.css"
   },
   {
-    "revision": "bb4d64ccd186e301e93d",
+    "revision": "49a97189e50e59f969f2",
     "url": "/react-polapi/static/css/main.e23523fe.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-polapi/static/js/2.e9e18933.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bb4d64ccd186e301e93d",
-    "url": "/react-polapi/static/js/main.32760bdd.chunk.js"
+    "revision": "49a97189e50e59f969f2",
+    "url": "/react-polapi/static/js/main.519f606a.chunk.js"
   },
   {
     "revision": "8772f05bb347f9beec3b",
